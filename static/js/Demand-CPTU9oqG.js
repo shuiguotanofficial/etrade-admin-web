@@ -1,0 +1,1 @@
+import{_ as e,c,j as n}from"./index-DSOzfY9k.js";const r={};function t(o,a){return n(),c("div",null,"需求预测 TODO...")}const _=e(r,[["render",t]]);export{_ as default};
